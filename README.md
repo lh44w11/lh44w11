@@ -37,26 +37,16 @@ Additional Knowledge
 
 ---
 
-💼 Experience
-Technical Support – VRP FiveM Server
+## 💼 Personal Projects
 
-📅 Mar 2021 – Dec 2025
+1. **[KeyNet Landing Page](https://github.com/lh44w11/KeyNet) – Business Landing Page**  
+   A responsive landing page developed for a technology services brand. Built using **HTML, CSS and JavaScript** with a focus on clean design and user experience.
 
-• Provided technical support for an international gaming community with 15,000+ users
-• Diagnosed and resolved issues related to connectivity, scripts, mods, and client configuration
-• Managed support tickets and technical troubleshooting
+2. **[Granjero Macro](https://github.com/lh44w11/Granjero) – Automation Script**  
+   A macro automation tool designed to optimize repetitive tasks in a farming-based game environment.
 
-Administrative Assistant – Dirección General de Cultura y Educación (Tigre)
-
-• Digitalization and administrative management of institutional records
-• Data organization using Microsoft Office tools
-
-📈 Development Goals
-
-• Strengthen my expertise in backend development and scalable systems
-• Improve knowledge in data structures, algorithms, and software architecture
-• Build and publish more real-world projects and APIs
-• Contribute to open-source projects and collaborate with developers worldwide
+3. **[Marketplace E-commerce](https://github.com/marcosromerov/marketplace) – Full Stack E-commerce Platform**  
+   A marketplace system built with **Spring Boot**, including **backend API, frontend interface and database integration** for managing products, users and transactions.
 
 ---
 
