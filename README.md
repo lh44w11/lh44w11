@@ -4,14 +4,6 @@ I am a software engineering student focused on developing reliable and efficient
 
 Through my GitHub, I document my journey as a developer by sharing projects, experiments, and learning experiences while continuously improving my programming and problem-solving skills.
 
-About Me
-
-Software Engineering Student at Universidad Argentina de la Empresa
-Interested in backend development, APIs, and system architecture
-Focused on writing clean, scalable, and maintainable code
-Interested in software infrastructure and networking basics
-Continuously learning new technologies and improving my development workflow
-
 ---
 
 ## 🚀 Technical Skills
@@ -35,7 +27,6 @@ Continuously learning new technologies and improving my development workflow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
 
 Additional Knowledge
 
@@ -69,14 +60,10 @@ Administrative Assistant – Dirección General de Cultura y Educación (Tigre)
 
 ---
 
-🌍 Languages
+## 🌍 Languages
 
-Spanish — Native
-English — C1
-
----
-
-## 📬 Let's Connect
+• Spanish — Native
+• English — C1
 
 ---
 
@@ -85,7 +72,3 @@ English — C1
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio_Sánchez_Zinny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-zinny-9ab845321/)
 
 [![Email](https://img.shields.io/badge/Email-nnachosanchezz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnachosanchezz@gmail.com)
-
----
-
----
