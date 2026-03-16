@@ -1,18 +1,16 @@
 👋 Hi there! I'm Ignacio Sánchez Zinny
 
-Software Engineering Student | Passionate about Building Scalable Software
-
 I am a software engineering student focused on developing reliable and efficient software solutions. My main interests include backend development, system architecture, and building applications that solve real-world problems.
 
 Through my GitHub, I document my journey as a developer by sharing projects, experiments, and learning experiences while continuously improving my programming and problem-solving skills.
 
-🧑‍🎓 About Me
+About Me
 
-🎓 Software Engineering Student at Universidad Argentina de la Empresa
-💻 Interested in backend development, APIs, and system architecture
-⚙️ Focused on writing clean, scalable, and maintainable code
-🌐 Interested in software infrastructure and networking basics
-📚 Continuously learning new technologies and improving my development workflow
+Software Engineering Student at Universidad Argentina de la Empresa
+Interested in backend development, APIs, and system architecture
+Focused on writing clean, scalable, and maintainable code
+Interested in software infrastructure and networking basics
+Continuously learning new technologies and improving my development workflow
 
 ---
 
@@ -73,13 +71,21 @@ Administrative Assistant – Dirección General de Cultura y Educación (Tigre)
 
 🌍 Languages
 
-• Spanish — Native
-• English — C1
+Spanish — Native
+English — C1
 
-📫 Let's Connect
+---
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Theo_Fernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TUUSUARIO](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-zinny-9ab845321/))
+---
 
-[![Email](https://img.shields.io/badge/Email-theo@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnachosanchezz@gmail.com)
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio_Sánchez_Zinny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-zinny-9ab845321/)
+
+[![Email](https://img.shields.io/badge/Email-nnachosanchezz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnachosanchezz@gmail.com)
+
+---
+
+---
