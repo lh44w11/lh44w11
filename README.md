@@ -52,13 +52,11 @@ Additional Knowledge
 
 ## 🌍 Languages
 
-• Spanish — Native
-• English — C1
+• Spanish → Native
+• English → C1
 
 ---
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio_Sánchez_Zinny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-zinny-9ab845321/)
-
-[![Email](https://img.shields.io/badge/Email-nnachosanchezz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnachosanchezz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio_Sánchez_Zinny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-zinny-9ab845321/) [![Email](https://img.shields.io/badge/Email-nnachosanchezz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnachosanchezz@gmail.com)
