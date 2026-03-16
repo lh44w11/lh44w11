@@ -14,6 +14,7 @@ Through my GitHub, I document my journey as a developer by sharing projects, exp
 🌐 Interested in software infrastructure and networking basics
 📚 Continuously learning new technologies and improving my development workflow
 
+---
 
 ## 🚀 Technical Skills
 
@@ -45,6 +46,7 @@ Additional Knowledge
 • Microsoft Office tools
 • Software troubleshooting and technical support
 
+---
 
 💼 Experience
 Technical Support – VRP FiveM Server
@@ -67,12 +69,17 @@ Administrative Assistant – Dirección General de Cultura y Educación (Tigre)
 • Build and publish more real-world projects and APIs
 • Contribute to open-source projects and collaborate with developers worldwide
 
+---
+
 🌍 Languages
 
-🇪🇸 Spanish — Native
-🇬🇧 English — C1
+• Spanish — Native
+• English — C1
 
 📫 Let's Connect
 
-💼 LinkedIn
-📧 Email
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Theo_Fernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TUUSUARIO](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-zinny-9ab845321/))
+
+[![Email](https://img.shields.io/badge/Email-theo@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnachosanchezz@gmail.com)
