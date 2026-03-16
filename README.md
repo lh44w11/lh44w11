@@ -39,14 +39,14 @@ Additional Knowledge
 
 ## 💼 Personal Projects
 
-1. **[KeyNet Landing Page](https://github.com/lh44w11/KeyNet) – Business Landing Page**  
-   A responsive landing page developed for a technology services brand. Built using **HTML, CSS and JavaScript** with a focus on clean design and user experience.
+1. **[Marketplace E-commerce](https://github.com/marcosromerov/marketplace) – Full Stack E-commerce Platform**  
+   A marketplace system built with **Spring Boot**, including **backend API, frontend interface and database integration** for managing products, users and transactions.
 
 2. **[Granjero Macro](https://github.com/lh44w11/Granjero) – Automation Script**  
    A macro automation tool designed to optimize repetitive tasks in a farming-based game environment.
 
-3. **[Marketplace E-commerce](https://github.com/marcosromerov/marketplace) – Full Stack E-commerce Platform**  
-   A marketplace system built with **Spring Boot**, including **backend API, frontend interface and database integration** for managing products, users and transactions.
+3. **[KeyNet Landing Page](https://github.com/lh44w11/KeyNet) – Business Landing Page**  
+   A responsive landing page developed for a technology services brand. Built using **HTML, CSS and JavaScript** with a focus on clean design and user experience.
 
 ---
 
