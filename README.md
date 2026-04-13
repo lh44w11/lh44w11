@@ -28,7 +28,7 @@ Currently looking for my first formal role in software development.
 
 ## 🚀 Projects
 
-### 🅿️ [Garage – Parking Management System](https://github.com/lh44w11/Garage)
+### 🅿️ [Estacioname – Parking Management System](https://github.com/lh44w11/Garage)
 Full-stack system for managing parking lots. Supports multi-company architecture where each garage operates independently under its own `company_id`.
 
 **Key features:** vehicle entry/exit tracking · dynamic pricing & promotions · subscription plans · debt management · floor/level management · automated reports  
