@@ -65,7 +65,7 @@ Full-stack marketplace platform for managing products, users and transactions.
 ---
 
 ### 🌾 [Granjero Macro – Automation Script](https://github.com/lh44w11/Granjero)
-Automation tool to optimize repetitive tasks in a farming-based game environment.
+Automation tool to optimize repetitive tasks.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
